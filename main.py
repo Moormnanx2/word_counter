@@ -10,14 +10,5 @@ def wordcounter():
 
 wordcounter()
 
-#while fin_phrase < longueur_phrase:
-    #characters_counted = phrase[debut_phrase:fin_phrase]
-    # phrase[0:1] 1= fin de phrase 0 = debut de phrase
-    #debut_phrase = debut_phrase + 1
-    #fin_phrase = debut_phrase + 1
-    #if characters_counted == " ":
-        #word_count = word_count + 1
-    # elif characters_counted != " ":
-    #if fin_phrase == longueur_phrase:
-        #print("Nombre de mots =", word_count + 1)
+
 
